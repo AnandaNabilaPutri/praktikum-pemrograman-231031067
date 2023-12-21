@@ -21,4 +21,4 @@
 * Latihan-c3: Latihan penggunaan If else dengan use case yang lebih kompleks`231031067-Ananda Nabila Putri-latihan 3.py`
 * Latihan-4: Latihan penggunaan If else dengan use case yang lebih kompleks`231031067-Ananda Nabila Putri -latihan4.py`
 * Tugas-1-c10: Latihan If else dengan membuat program pengecekan ganjil genap `231031067-Ananda Nabila Putri-tugas1-10c.py`
-* Tugas-2-c10: Latihan membuat fungsi selisih waktu dan konversi waktu `231031067-Ananda Nabila Putri-Tugas2-10c.py``
+* Tugas-2-c10: Latihan membuat fungsi selisih waktu dan konversi waktu `231031067-Ananda Nabila Putri-Tugas2-10c.py`
