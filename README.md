@@ -11,6 +11,7 @@
 * Praktikum-c6: Pengenalan While loop `praktikum-c6.py`
 * Praktikum-c7: Pengenalan While loop dengan use case login `praktikum-c7.py`
 * Praktikum-c8: Pengenalan While loop dengan use case login berlapis `praktikum-c8.py`
+* UTS `231031067-middle-SIC`
 * Praktikum-c9: Pengenalan While loop dengan use case perhitungan luas keliling `231031067-Ananda Nabila Putri-dictionaries-tugas 9.py`
 * Praktikum-c10: Pengenalan Jupyter Notebook `praktikum-c10.py`
 * Praktikum-c11: Membuat program faktorial `231031069-Ananda Nabila Putri-praktikum-c11.py`
